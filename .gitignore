@@ -16,6 +16,10 @@ wp-content/upgrade/
 wp-content/backup-db/
 wp-content/cache/
 wp-content/debug.log
+wp-content/backups/
+
+# Node
+node_modules/
 
 # Plugins & Themes (exclude standard ones if managed by composer, otherwise keep)
 # Here we keep everything in themes/plugins for now unless specified otherwise.
