@@ -1,0 +1,30 @@
+# WordPress .gitignore
+# Core
+wp-admin/
+wp-includes/
+*.php
+!wp-config-sample.php
+!wp-content/
+
+# Config
+wp-config.php
+.htaccess
+
+# Content
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+wp-content/debug.log
+
+# Plugins & Themes (exclude standard ones if managed by composer, otherwise keep)
+# Here we keep everything in themes/plugins for now unless specified otherwise.
+# Usually you might ignore standard plugins and only commit custom ones.
+# For this repo structure request, we are committing the structure.
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
