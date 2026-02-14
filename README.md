@@ -2,19 +2,6 @@
 
 This repository contains the custom theme and plugins for the [FemaleArtWeek](https://www.femaleartweek.com/) WordPress website.
 
-## Project Structure
-
-```
-Femaleartweek/
- ├── wp-content/
- │    ├── themes/
- │    │     └── femaleartweek-theme/ (Envato template based)
- │    ├── plugins/
- │    │     └── (Custom plugins)
- │    └── mu-plugins/
- ├── .gitignore
- └── README.md
-```
 
 ## Website Information
 
