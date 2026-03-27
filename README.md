@@ -8,6 +8,8 @@ This repository contains the custom theme and plugins for the [FemaleArtWeek](ht
 - **URL**: https://www.femaleartweek.com/
 - **Description**: Female Art Week Project is a professional website built using WordPress for an art initiative in Berlin, Germany. It aims to showcase events and creative works through a modern visual style that reflects the artistic identity, with a smooth user experience across both mobile and desktop.
 
+
+
 Main Pages: Home, Events / Artworks, About the Initiative, Contact Us.
 Strong Visual Presentation: The page design highlights images and artistic content in an organized way, helping visitors explore details and understand the project’s visual identity.
 Optimized Mobile Experience: Enhanced hero section, balanced spacing, and clear text over images using color gradients to ensure excellent readability.
