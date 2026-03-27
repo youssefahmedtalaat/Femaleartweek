@@ -1,6 +1,6 @@
 # FemaleArtWeek
 
-This repository contains the custom theme and plugins for the [FemaleArtWeek](https://www.femaleartweek.com/) WordPress website.
+This repository contains the infromations and description for the [FemaleArtWeek](https://www.femaleartweek.com/) WordPress website.
 
 
 ## Website Information
