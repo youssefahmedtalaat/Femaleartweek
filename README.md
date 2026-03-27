@@ -16,29 +16,3 @@ Optimized Mobile Experience: Enhanced hero section, balanced spacing, and clear 
 Modern & Consistent Design: A minimal style inspired by Berlin’s European artistic vibe, with strong attention to typography and color harmony.
 Simple & Effective Contact Form: A clear design that makes it easy for users to get in touch.
 Flexible WordPress Management: Easy content updates and additions without requiring technical or programming expertise.
-
-## Installed Plugins (Reference)
-
-Based on the site configuration, the following plugins are in use:
-
-- **Admin and Site Enhancements (ASE) Pro**
-- **Advanced Custom Fields PRO**
-- **Astra Pro**
-- **Duplicator**
-- **Elementor** & **Elementor Pro**
-- **FunnelKit Cart for WooCommerce**
-- **Independent Analytics**
-- **Jeg Kit for Elementor**
-- **MemberPress** (various integrations)
-- **PowerPack Pro for Elementor**
-- **Prime Slider**
-- **Rank Math SEO** & **Pro**
-- **Sina Extension for Elementor**
-- **Smash Balloon Instagram Feed**
-- **UpdraftPlus - Backup/Restore**
-- **WooCommerce** & **Stripe Gateway**
-- **WP Sheet Editor**
-
-## Theme
-
-The site uses a theme based on an Envato template (e.g., `femaleartweek-theme`).
