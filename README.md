@@ -10,7 +10,7 @@ This repository contains the infromations and description for the [FemaleArtWeek
 
 
 
-Main Pages: Home, Events / Artworks, About the Initiative, Contact Us.
+Main Pages:Home, Events / Artworks, About the Initiative, Contact Us.
 Strong Visual Presentation: The page design highlights images and artistic content in an organized way, helping visitors explore details and understand the project’s visual identity.
 Optimized Mobile Experience: Enhanced hero section, balanced spacing, and clear text over images using color gradients to ensure excellent readability.
 Modern & Consistent Design: A minimal style inspired by Berlin’s European artistic vibe, with strong attention to typography and color harmony.
